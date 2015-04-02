@@ -12,7 +12,7 @@ params = namedtuple('params', ['value', 'units'])
 class InstrumentError(ValueError):
     pass
 class gpibinstruments:
-
+    """ initialize the instruments here """ 
     def __init__(self, station_info):
         eqpt = []
         self.stnInst_info = {}
