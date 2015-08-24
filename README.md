@@ -1,13 +1,13 @@
-## gpibcontroller
+# gpibcontroller
  Simple module that uses pyvisa(python package) to control GPIB instruments
 
 
 
-# Resources
+### Resources
  * http://www.hit.bme.hu/~papay/edu/GPIB/tutor.htm
  * https://pyvisa.readthedocs.org/en/master/
 
-# Usage
+### Usage
 
  1. Clone this repository to your workstation
    1. Work station can be any linux flavor, Windows are Mac
