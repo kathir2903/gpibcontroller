@@ -10,7 +10,7 @@
 ### Usage
 
  1. Clone this repository to your workstation
-   1. Work station can be any linux flavor, Windows are Mac
+   1. Work station can be any linux flavor, Windows or Mac
  2. Install python 2.7 or above
    1. pip install python setuptools
    2. pip install py-visa 
